@@ -1,3 +1,4 @@
 # Learn-using-Git
 My first repository
-Hello i try to use git :V
+> Hello i try to use git :V
+> Sorry my bad
